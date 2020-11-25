@@ -1,2 +1,3 @@
-# SimpleExpressionSolver
-Solves expressions with plus, minus and braces
+Решебник простых выражений с +,- и скобками.
+
+До польской нотации - как до Пекина.
